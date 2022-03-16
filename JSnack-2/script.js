@@ -16,5 +16,5 @@ if (numeroUno < numeroDue) {
 
 } else {
 
-    document.getElementById("vFrase").innerHTML = "Le due parole sono uguali";
+    document.getElementById("vFrase").innerHTML = "Le due parole sono lunghe uguali";
 }
