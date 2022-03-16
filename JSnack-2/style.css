@@ -13,5 +13,14 @@
   display: table;
 }
 
+#vFrase {
+  background-color: black;
+  color: white;
+  text-align: center;
+  display: block;
+  font-size: 3em;
+  margin: 20px auto auto auto;
+}
+
 
 
