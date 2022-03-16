@@ -5,6 +5,7 @@ let numeroDue = prompt("Inserisci un numero");
 numeroUno = Number(numeroUno);
 
 numeroDue = Number(numeroDue)
+ 
 
 if (numeroUno < numeroDue) {
    
