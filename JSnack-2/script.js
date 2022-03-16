@@ -9,10 +9,10 @@ let numeroDue = Number(ParolaDue.length);
 
 if (numeroUno < numeroDue) {
 
-    document.getElementById("vFrase").innerHTML = `${ParolaDue}-${ParolaUno} `;
+    document.getElementById("vFrase").innerHTML = `${ParolaUno}-${ParolaDue} `;
 
 } else if (numeroUno > numeroDue) {
-    document.getElementById("vFrase").innerHTML = `${ParolaUno}-${ParolaDue} `;
+    document.getElementById("vFrase").innerHTML = `${ParolaDue}-${ParolaUno} `;
 
 } else {
 
